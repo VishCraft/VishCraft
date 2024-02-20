@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a passion for crea
 
 ## 🌱 I'm currently learning
 
-- Development of modern and interactive user interfaces using React and Vue.js. Emphasizing UI/UX best practices and implementing responsive web applications.
+-Development of modern and interactive user interfaces using React and Vue.js. Emphasizing UI/UX best practices and implementing responsive web applications.
 
 -Focusing on server-side development with Node.js and Express.js. Gaining expertise in building scalable and efficient APIs, understanding routing, middleware, and database interactions.
 
