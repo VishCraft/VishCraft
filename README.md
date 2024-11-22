@@ -41,8 +41,8 @@ I'm open to collaborating on projects related to web development, whether it's c
 
 You can connect with me through the following channels:
 
-- Email: vishkp.17@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vishal-kompella-8a7375169/
+- Email: vkompel2@asu.edu
+- LinkedIn: https://www.linkedin.com/in/vishalkompella/
 
 Feel free to explore my repositories and projects. If you find anything interesting or have any questions, don't hesitate to get in touch. Let's learn and grow together! 🚀
 
