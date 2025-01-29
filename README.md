@@ -29,6 +29,8 @@ Welcome to my GitHub profile! I'm a full-stack developer with a passion for crea
 
 -Exploring and staying updated on emerging JavaScript libraries and frameworks to enhance my toolkit for creating innovative and efficient solutions.
 
+-Gaining expertise in Spring Boot to build efficient, secure, and scalable Java-based back-end applications.
+
 -Tackling and solving complex coding challenges, leveraging my understanding of data structures, algorithms, and optimization techniques.
 
 -Actively collaborating on open-source projects related to database systems, information systems development, and data visualization to contribute to the developer community and gain practical experience in real-world projects.
@@ -43,6 +45,7 @@ You can connect with me through the following channels:
 
 - Email: vishalk.vce@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/vishalkla/ 
+
 Feel free to explore my repositories and projects. If you find anything interesting or have any questions, don't hesitate to get in touch. Let's learn and grow together! 🚀
 
 <!---
